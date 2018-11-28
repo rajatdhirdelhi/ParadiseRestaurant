@@ -1,0 +1,21 @@
+.flex-column {
+  max-width: 260px;
+}
+
+img {
+  margin: 5px;
+}
+
+/* #navbarSupportedContent .add-padding {
+  padding-left: 40%;
+} */
+.front-quote {
+    margin: 0 0 1rem;
+    font-style: italic;
+    font-size: 35px;
+    text-align: center;
+    padding-left: 7%;
+    padding-right: 7%;
+    color: darkblue;
+    font-family: 'Merriweather', serif;
+}
